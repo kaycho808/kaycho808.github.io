@@ -5,3 +5,6 @@ gemspec
 
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-spaceship", group: :jekyll_plugins
+
