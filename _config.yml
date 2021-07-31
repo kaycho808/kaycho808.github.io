@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   #  Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kaycho808.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -182,7 +182,7 @@ defaults:
 
 # Disqus comments
 disqus:
-  shortname: "kaycho808-github-io"
+  shortname: kayblog-2
 
 # Gitment comments
 # gitment:
