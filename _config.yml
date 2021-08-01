@@ -43,7 +43,7 @@ author: kaycho808
 copyright: "Copyrignt (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Kay's git blog!
+  Welcome to Kay's blog!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kaycho808.github.io" # the base hostname & protocol for your site, e.g. http://example.com
