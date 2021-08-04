@@ -151,8 +151,8 @@ yat:
 # Page default value
 defaults:
   home:
-     heading: "Kaylog"
-     subheading: "켈로그"
+     heading: "켈로그"
+     subheading: "Kaylog"
      banner: "https://github.com/kaycho808/kaycho808.github.io/blob/main/assets/images/banners/keyboard_hello_world.jpg?raw=true"
 
 # Banner default settings
