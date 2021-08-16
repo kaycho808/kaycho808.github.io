@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 케이 블로그
+title: 조케이 블로그
 email: dbrudw@gmail.com
 author: kaycho808
 
@@ -151,7 +151,7 @@ yat:
 # Page default value
 defaults:
   home:
-     heading: "케이 블로그"
+     heading: "조케이 블로그"
      subheading: "Welcome to Kay's blog!"
      banner: "https://github.com/kaycho808/kaycho808.github.io/blob/main/assets/images/banners/keyboard_hello_world.jpg?raw=true"
 
